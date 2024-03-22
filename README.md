@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🛠️ As a DevOps enthusiast, I excel in bridging development, operations, and automation. I'm deeply committed to building robust systems, streamlining processes, and fostering a culture of collaboration within teams.<br><br>🌟 My journey in the world of technology has been driven by a relentless passion for innovation and problem-solving. I'm always eager to dive into new technologies and methodologies, seeking out opportunities to expand my skill set and contribute meaningfully to projects.<br><br>💡 When I'm not tinkering with infrastructure or writing scripts, you can find me indulging in my hobbies. I enjoy singing, traveling, and exploring new tech. Whether it's hitting the high notes, discovering new destinations, or diving into the latest advancements in technology, these activities bring joy and inspiration to my life.
 
 
